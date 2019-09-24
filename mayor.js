@@ -1,0 +1,14 @@
+var listaSemana = [];
+var dia = [1,2,3,4,5,6,7];
+var dia1 = [];
+var dia2 = [];
+var dia3 = [];
+console.log(dia);
+dia.push('lunes');
+dia.push('martes');
+dia.push('miercoles');
+dia.push('jueves');
+dia.push('viernes');
+dia.push('sabado');
+dia.push('domingo');
+console.log(dia);
